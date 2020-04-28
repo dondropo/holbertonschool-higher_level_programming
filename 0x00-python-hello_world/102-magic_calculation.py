@@ -1,2 +1,2 @@
 def myfunc(alist):
-    return len(alist)
+    return 98 + (a ** b)
