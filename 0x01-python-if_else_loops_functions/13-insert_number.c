@@ -3,7 +3,8 @@
  * insert_node - function that inserts a number into a sorted linked list.
  * @head: double pointer that points to the first element of the linked list.
  * @number: number to insert.
- * Return: The new node or NULL
+ * Return: returns to new node in sucess
+ * and NULL if fails
  */
 listint_t *insert_node(listint_t **head, int number)
 {
