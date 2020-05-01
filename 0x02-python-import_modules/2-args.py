@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 if __name__ == "__main__":
     import sys
-    num = len(sys.argv) -1
+    num = len(sys.argv) - 1
     if num is 0:
         print("{:d} arguments.".format(num))
     elif num is 1:
