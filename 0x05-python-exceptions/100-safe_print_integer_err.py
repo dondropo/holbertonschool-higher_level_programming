@@ -5,7 +5,8 @@ from sys import stderr
 def safe_print_integer_err(value):
     try:
         print("{:d}".format(value))
+        return True
     except Exception as exon:
-        print("Exception: {}", exon, file=stderr)
+        var = "Exception: " + str(exon) + '\n'
+        stderr.write(var)
         return False
-    return True
