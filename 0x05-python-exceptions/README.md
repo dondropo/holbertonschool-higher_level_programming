@@ -3,7 +3,7 @@
 ## Resources:
 _Read or watch:_
 * [Errors and exceptions](https://docs.python.org/3.4/tutorial/errors.html)
-*[Learn to program 11 Statick and exception handling](https://www.youtube.com/watch?v=7vbgD-3s-w4)
+* [Learn to program 11 Statick and exception handling](https://www.youtube.com/watch?v=7vbgD-3s-w4)
 
 ### General
 
@@ -18,7 +18,7 @@ _Read or watch:_
 ## Requirements
 ### General
 
-* Allowed editors: vi, vim, emacs
+* Allowed editors: ```vi, vim, emacs```
 * All your files will be interpreted/compiled on Ubuntu 14.04 LTS using ```python3``` (version 3.4.3)
 * All your files should end with a new line
 * The first line of all your files should be exactly #!/usr/bin/python3
