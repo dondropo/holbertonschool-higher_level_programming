@@ -11,10 +11,14 @@ def matrix_divided(matrix, div):
         raise ZeroDivisionError("division by zero")
 
     new_mtx = []
+    msg = "matrix must be a matrix (list of lists) of integers/floats"
     for column in matrix:
         if len(column) is not len(matrix[0]):
             raise TypeError("Each row of the matrix must have the same size")
-        tmp_list = list(map(lambda row: round(row / div, 2), column))
-        new_mtx.append(tmp_list)
+        if isinstance(len(column), (int, float)):
+            tmp_list = list(map(lambda row: round(row / div, 2), column))
+            new_mtx.append(tmp_list)
+        else:
+            raise TypeError(msg)
 
     return new_mtx
