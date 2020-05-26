@@ -25,4 +25,4 @@ _Read or watch:_
 * How does Python pass variables to functions
 
 ## Author
-* Alejandro Rusca Moreno (https://github.com/dondropo)
+* Alejandro Rusca Moreno https://github.com/dondropo
