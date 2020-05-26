@@ -78,5 +78,5 @@ class Rectangle:
         return var
 
     def __del__(self):
-        """Print by rectangle"""
+        """Print bye rectangle"""
         print("Bye rectangle...")
