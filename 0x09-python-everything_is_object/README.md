@@ -24,7 +24,7 @@ _Read or watch:_
 * What are the built-in immutable types
 * How does Python pass variables to functions
 
-## Author
+#### Author
 * Alejandro Rusca Moreno
-- [Github](https://github.com/dondropo)
-- [Twitter](https://twitter.com/don_dropo)
+##### [Github](https://github.com/dondropo)
+##### [Twitter](https://twitter.com/don_dropo)
