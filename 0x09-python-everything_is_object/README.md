@@ -26,4 +26,5 @@ _Read or watch:_
 
 #### Author
 * Alejandro Rusca Moreno
-##### [Github](https://github.com/dondropo) [Twitter](https://twitter.com/don_dropo)
+##### [Github](https://github.com/dondropo) 
+##### [Twitter](https://twitter.com/don_dropo)
