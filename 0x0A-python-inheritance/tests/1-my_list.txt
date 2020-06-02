@@ -4,8 +4,6 @@ The ``1-my_list`` module
 Using ``my_list``
 
 
-My list is a class that inherits from integer, gets a list and print it sorted
-
 >>> MyList = __import__('1-my_list').MyList
 
 Usage:
