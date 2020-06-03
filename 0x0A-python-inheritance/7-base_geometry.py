@@ -16,6 +16,6 @@ class BaseGeometry():
         """conditions"""
 
         if type(value) is not int:
-            raise TypeError(str(name) + " <name> must be an integer")
+            raise TypeError(name + " <name> must be an integer")
         if value <= 0:
-            raise ValueError(str(name) + " <name> must be greater than 0")
+            raise ValueError(name + " <name> must be greater than 0")
