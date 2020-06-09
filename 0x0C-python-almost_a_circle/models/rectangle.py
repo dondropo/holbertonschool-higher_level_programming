@@ -88,10 +88,7 @@ class Rectangle(Base):
             print('#' * self.__width)
 
     def __str__(self):
-        """
-        Update the class Rectangle
-        by overriding the __str__ method
-        """
+        """update for class rectangle"""
 
         return "[{}] ({}) {}/{} - {}/{}".format(self.__class__.__name__,
                                                 self.id,
