@@ -5,9 +5,11 @@ Base module
 
 
 class Base:
+    """class base"""
     __nb_objects = 0
 
     def __init__(self, id=None):
+        """base"""
         if id is not None:
             self.id = id
         else:
