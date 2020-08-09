@@ -46,7 +46,7 @@ _Read or watch:_
 * [mysqlclient/MySQLdb](https://intranet.hbtn.io/rltoken/SSoBE3ckyGFi3NexCH3nuw)
 * [Introduction to SQLAlchemy](https://intranet.hbtn.io/rltoken/I5bvhPGTOu3_-T-4jpN-hg)
 * [Flask SQLAlchemy](https://intranet.hbtn.io/rltoken/UvaHESHeqlRA0Z0uQFi0_A)
-* [10 common stumbling blocks for SQLAlchemy newbies](10 common stumbling blocks for SQLAlchemy newbies)
+* [10 common stumbling blocks for SQLAlchemy newbies(10 common stumbling blocks for SQLAlchemy newbies)](https://intranet.hbtn.io/rltoken/Zb8Yc2WycLLYX8gnLlwZKw)
 * [Python SQLAlchemy Cheatsheet](https://intranet.hbtn.io/rltoken/XHPAX7-ydSou2BLWHII8Vw)
 * [SQLAlchemy ORM Tutorial for Python Developers (Warning: This tutorial is with PostgreSQL, but the concept of SQLAlchemy is the same with MySQL)](https://intranet.hbtn.io/rltoken/aeLSQ039BhLhamU2BjqsOw)
 
