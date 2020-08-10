@@ -6,7 +6,7 @@ script that creates the State “California” with the City
 
 import sys
 from sqlalchemy import create_engine
-from sqlalchemy import session_maker
+from sqlalchemy import sessionmaker
 from relationship_city import City, Base
 from relationship_state import State
 
