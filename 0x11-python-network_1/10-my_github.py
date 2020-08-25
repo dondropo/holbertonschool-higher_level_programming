@@ -15,4 +15,3 @@ if __name__ == "__main__":
     else:
         response = response.json()
         print(response.get('id'))
-
