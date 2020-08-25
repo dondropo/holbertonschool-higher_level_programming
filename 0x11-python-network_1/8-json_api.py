@@ -13,7 +13,7 @@ if __name__ == "__main__":
         q = ""
     else:
         q = sys.argv[1]
-    'http://0.0.0.0:5000/search_user'
+    url = 'http://0.0.0.0:5000/search_user'
     r = rq.post(url, data={'q': q})
     try:
         data = r.json()
